@@ -1,2 +1,3 @@
-# nova-ml-project-8yqg
+# Nova Ml Project 8Yqg
+
 A repository to test GitHub automation for issue management.
